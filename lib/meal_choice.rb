@@ -7,5 +7,5 @@ end
 veg1 = "Carrot"
 veg2 = "Fish"
 
-puts meat_choice(veg1, veg2)
+puts meal_choice(veg1, veg2)
 
