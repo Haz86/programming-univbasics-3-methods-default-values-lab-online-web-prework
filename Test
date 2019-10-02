@@ -6,4 +6,5 @@ end
 veg1 = "Carrot"
 veg2 = "Fish"
 
-meal_choice
+ puts meal_choice(Carrot, Fish, Protein)
+ 
